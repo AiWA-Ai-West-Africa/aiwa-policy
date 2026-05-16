@@ -360,6 +360,17 @@ There are no barriers preventing work from being performed inside The Gambia. AI
 - defer to applicable ministerial authority where required; and
 - escalate to applicable ministries where required.
 
+10.4. **Institutional Posture.** AIWA operates as a Gambian AI rights and cultural compliance infrastructure. AIWA is an operational and contractual stewardship system, not a sovereign regulator, ministry, court, or statutory authority.
+
+10.5. For ministry-facing engagement, AIWA will present and implement this framework as:
+
+- educational-rights and student-protection supportive for education-sector materials;
+- culturally protective and community-sovereignty supportive for heritage and folklore matters;
+- legally deferential to courts, ministries, NCAC, and other lawful public authorities; and
+- innovation-enabling through governed, rights-verified, and auditable AI infrastructure.
+
+10.6. AIWA must not represent any internal classification, approval, restriction, or appeal outcome as equivalent to a sovereign government determination unless the outcome is expressly issued or confirmed by the relevant Gambian public authority.
+
 ---
 
 ## 11. Government Authorization Handling
