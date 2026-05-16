@@ -92,6 +92,14 @@
 - governing law and dispute-resolution path; and
 - compliance obligations under applicable sanctions, export control, anti-corruption, and data-protection rules.
 
+3.14. International copyright interpretation for cross-border exploitation should be aligned with applicable Berne Convention principles and relevant WIPO copyright instruments, subject always to Gambian law where Gambian law governs.
+
+3.15. For folklore, traditional knowledge, and community-linked cultural determinations, AIWA uses WIPO traditional knowledge and traditional cultural expression frameworks as interpretive support, without displacing Gambian public authority.
+
+3.16. For cross-border data handling, AIWA applies AIWA-POL-09 safeguards and, where applicable to the transaction, aligns contractual controls with regional ECOWAS data-protection expectations and equivalent lawful transfer protections.
+
+3.17. Conflict-of-law handling rule: where two or more legal systems may apply, AIWA must document the applicable hierarchy, identify any non-waivable local-law controls, and apply the stricter lawful safeguard where no direct legal conflict prevents doing so.
+
 ---
 
 ## 3C. International Framework Alignment and Human Rights Principles
@@ -169,6 +177,8 @@ Data lifecycle records are maintained as part of each work's governance record.
 4.2. No lower-ranked authority may override a higher-ranked authority.
 
 4.3. Where Gambian law is partially defined or silent on a specific matter, AIWA applies the most protective interpretation in favour of cultural preservation, pending further legal guidance.
+
+4.4. Where foreign law is mandatory for an offshore transaction, AIWA must preserve Gambian-law-facing cultural and rights safeguards through contract design, scope limits, and documented escalation pathways.
 
 ---
 

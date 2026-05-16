@@ -28,13 +28,15 @@
 
 2.4. A decision state may only be changed through a new recorded decision.
 
-2.5. When in doubt, restrict. The burden of proof lies with approving use, not with restricting it.
+2.5. Where material uncertainty exists involving cultural harm, rights ambiguity, or community sensitivity, precautionary review measures may be applied in proportion to the identified risk.
 
 2.6. No one person closes a high-risk case alone.
 
 2.7. No stage may be skipped to reach a decision faster.
 
 2.8. No decision is valid if the required prior stages have not been completed and documented.
+
+2.9. Decision controls must be applied consistently and with recorded reasons linked to documented evidence.
 
 ---
 
@@ -153,9 +155,11 @@
 
 6.9. No bypass of classification for any reason.
 
-6.10. When in doubt, restrict.
+6.10. Where uncertainty remains after required checks, apply the least permissive interim control needed to prevent material harm until clarification is obtained.
 
-6.11. Restriction is the default. Approval is the exception. Approval must be earned through the process.
+6.11. Approval requires documented completion of required checks. Interim holds and limits are preferred over full restriction unless documented evidence supports restriction.
+
+6.12. Governance Board determinations on escalated matters require quorum and conflict-of-interest controls under AIWA-GOV-01. Emergency delegated decisions must be ratified and recorded at the next Board sitting.
 
 ---
 
