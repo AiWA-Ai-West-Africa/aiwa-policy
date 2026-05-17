@@ -74,7 +74,7 @@ The Governance Board is the highest internal decision-making authority within AI
 - A high-risk case must not be closed by a single person. Board decisions on high-stakes matters require more than one member.
 - Quorum for Governance Board decisions is a simple majority of appointed voting members, with a minimum of three voting members present.
 - Any Board member with an actual, potential, or reasonably perceived conflict of interest in the matter must recuse themselves and must not participate in deliberation or vote.
-- Where recusals reduce attendance below quorum, the matter is referred to an independent external reviewer panel or deferred to the applicable Gambian authority where lawful public authority determination is required.
+- Where recusals reduce attendance below quorum, the matter is referred to an independent external reviewer panel or deferred to the applicable Gambian authority where lawful public-authority determination is required.
 - For urgent safeguarding, legal, or ministry-deadline matters where a full Board sitting is not reasonably practicable, the Board may assign a documented emergency delegated panel of at least two non-conflicted members, subject to full Board ratification at the next scheduled sitting.
 
 ### 3.5. External Advisory and Public-Interest Interfaces
