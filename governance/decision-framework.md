@@ -155,9 +155,9 @@
 
 6.9. No bypass of classification for any reason.
 
-6.10. Where uncertainty remains after required checks, apply the least permissive interim control needed to prevent material harm until clarification is obtained.
+6.10. Where uncertainty remains after required checks, the matter must be Held to prevent material harm until clarification is obtained.
 
-6.11. Approval requires documented completion of required checks. Interim holds and other interim restrictions are preferred over full restriction unless documented evidence supports restriction.
+6.11. Approval requires documented completion of required checks. Held is preferred where required checks are incomplete or clarification is pending. Restricted may be applied only where documented evidence supports restriction.
 
 6.12. Governance Board determinations on escalated matters require quorum and conflict-of-interest controls under AIWA-GOV-01. Emergency delegated decisions must be ratified and recorded at the next Board sitting.
 
