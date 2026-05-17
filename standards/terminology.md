@@ -104,7 +104,7 @@ All terms are listed in alphabetical order.
 | **Stewardship** | AIWA's role as the designated local custodian of works in the system, responsible for classification, protection, payout, and community allocation. |
 | **Submission** | The act of placing a work into the AIWA system through an authorized intake channel. |
 | **System Processing** | The parsing, extraction, indexing, and storage of data from a submitted work, performed by AIWA at the system level in support of educational indexing and language resource development. Agreement to system processing is granted by the contributor's act of submission. |
-| **Traditional Expression Reuse** | Reproduction, adaptation, or incorporation of an identifiable protected traditional expression into a modern work. Reuse requires documented rights and cultural clearance checks before approval for exploitation or AI use. |
+| **Traditional Cultural Expression (TCE) Reuse** | Reproduction, adaptation, or incorporation of an identifiable protected traditional cultural expression (TCE) into a modern work. Reuse requires documented rights and cultural clearance checks before approval for exploitation or AI use. |
 | **Work** | Any intellectual creation that is fixed, identifiable, and submitted to AIWA through an authorized intake channel. See AIWA-DOC-01 Section 2. |
 | **Work Type** | The formal categorization of a work by its nature and form. See AIWA-DOC-01 Section 3. |
 
