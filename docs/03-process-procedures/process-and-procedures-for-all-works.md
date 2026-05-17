@@ -847,7 +847,7 @@ The contributor retains ownership of the original submitted work. This license d
 
 ## 9A. Contributor Procedural Rights
 
-9A.1. Contributors subject to a decision state of Held, Restricted, Rejected, or Escalated, or to an enforcement action, are entitled to:
+9A.1. Contributors subject to a decision state of Held, Restricted, Rejected, or Escalated, or to an enforcement measure or outcome under AIWA-POL-07 or AIWA-POL-11, are entitled to:
 
 - written notice of the decision state, reasons, and effective date;
 - access to non-confidential evidence materially relied on for the decision;
