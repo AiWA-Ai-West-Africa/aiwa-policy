@@ -856,7 +856,7 @@ The contributor retains ownership of the original submitted work. This license d
 - review by a non-conflicted officer for elevated, restricted, or escalated matters; and
 - written communication of the review outcome and next available review path.
 
-9A.2. Procedural rights may be limited only where disclosure is prohibited by law, public-authority direction, or documented legal-risk advice. Any such limitation must be recorded.
+9A.2. Procedural rights may be limited only where disclosure is prohibited by law, public authority direction, or documented legal-risk advice. Any such limitation must be recorded.
 
 9A.3. The exercise of procedural rights must not trigger retaliation or punitive treatment where the contributor acts in good faith.
 
