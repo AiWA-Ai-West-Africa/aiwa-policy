@@ -6,7 +6,7 @@
 **Tier:** 2 — Operational & Platform Policies
 **Scope:** Public policy governing AIWA's use of cookies, similar technologies, consent controls, and related tracking disclosures.
 **Restrictions:** This document defines disclosure and consent standards. It does not replace broader data-governance controls in AIWA-POL-09.
-**Cross-Reference:** AIWA-POL-09 (Data Protection & Privacy), AIWA-POL-17 (Platform Terms of Service), AIWA-POL-20 (Terms of Sale & Subscriptions)
+**Cross-Reference:** AIWA-POL-09 (Data Protection & Privacy), AIWA-POL-17 (Platform Terms of Service), AIWA-POL-20 (Terms of Sale, Subscriptions & Marketplace Transactions Policy)
 
 ---
 
