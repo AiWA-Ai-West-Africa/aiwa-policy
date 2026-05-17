@@ -357,7 +357,7 @@
 - incident trigger and detection source;
 - affected works, communities, rights holders, and partners;
 - immediate containment measures;
-- legal, cultural, and contractual escalation actions taken; and
+- legal, cultural, and contractual escalation actions taken;
 - closure decision with remediation and prevention controls.
 
 14B.3. Material incidents involving cultural or public-authority sensitivity must be escalated to the Governance Board and, where required, referred to applicable Gambian public authorities.
