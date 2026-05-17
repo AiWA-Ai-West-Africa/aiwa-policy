@@ -847,7 +847,7 @@ The contributor retains ownership of the original submitted work. This license d
 
 ## 9A. Contributor Procedural Rights
 
-9A.1. Contributors subject to a Hold, Restriction, Rejection, Escalation, or enforcement action are entitled to:
+9A.1. Contributors subject to a Held, Restricted, Rejected, or Escalated decision state, or to an enforcement action, are entitled to:
 
 - written notice of the decision state, reasons, and effective date;
 - access to non-confidential evidence materially relied on for the decision;
