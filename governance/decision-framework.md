@@ -157,7 +157,7 @@
 
 6.10. Where uncertainty remains after required checks, apply the least permissive interim control needed to prevent material harm until clarification is obtained.
 
-6.11. Approval requires documented completion of required checks. Interim holds and limits are preferred over full restriction unless documented evidence supports restriction.
+6.11. Approval requires documented completion of required checks. Interim holds and other interim restrictions are preferred over full restriction unless documented evidence supports restriction.
 
 6.12. Governance Board determinations on escalated matters require quorum and conflict-of-interest controls under AIWA-GOV-01. Emergency delegated decisions must be ratified and recorded at the next Board sitting.
 
