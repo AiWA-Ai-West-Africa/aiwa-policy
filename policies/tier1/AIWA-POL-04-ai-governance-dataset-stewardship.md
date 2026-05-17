@@ -360,7 +360,7 @@
 - legal, cultural, and contractual escalation actions taken;
 - closure decision with remediation and prevention controls.
 
-14B.3. Material incidents involving cultural or public-authority sensitivity must be escalated to the Governance Board and, where required, referred to applicable Gambian public authorities.
+14B.3. Material incidents involving cultural or public authority sensitivity must be escalated to the Governance Board and, where required, referred to applicable Gambian public authorities.
 
 14B.4. AIWA must periodically review model-risk controls covering provenance integrity, consent-lineage, output traceability, and partner compliance effectiveness.
 
