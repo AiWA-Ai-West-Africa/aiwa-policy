@@ -1,4 +1,4 @@
-# Community Guidelines
+# Community Guidelines Policy
 
 **Document ID:** AIWA-POL-19
 **Version:** 0.1
