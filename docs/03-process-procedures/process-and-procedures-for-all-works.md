@@ -845,6 +845,46 @@ The contributor retains ownership of the original submitted work. This license d
 
 ---
 
+## 9A. Contributor Procedural Rights
+
+9A.1. Contributors subject to a decision state of Held, Restricted, Rejected, or Escalated, or to an enforcement measure or outcome under AIWA-POL-07 or AIWA-POL-11, are entitled to:
+
+- written notice of the decision state, reasons, and effective date;
+- access to non-confidential evidence materially relied on for the decision;
+- a defined response window to provide corrections, context, or additional evidence;
+- appeal or reconsideration access under Stage 12 and AIWA-POL-11 timelines;
+- review by a non-conflicted officer for elevated, restricted, or escalated matters; and
+- written communication of the review outcome and next available review path.
+
+9A.2. Procedural rights may be limited only where disclosure is prohibited by law, public authority direction, or documented legal-risk advice. Any such limitation must be recorded.
+
+9A.3. The exercise of procedural rights must not trigger retaliation or punitive treatment where the contributor acts in good faith.
+
+---
+
+## 9B. Community Consultation Protocol (Procedural Baseline)
+
+9B.1. Community consultation is triggered where one or more of the following exists:
+
+- a documented claim of community authority, ownership, or sensitivity;
+- evidence of sacred, ceremonial, or restricted heritage status;
+- competing representative claims concerning the same material; or
+- a ministry, NCAC, or lawful public authority request for consultative review.
+
+9B.2. The Cultural Review Unit must record for each consultation:
+
+- consultation trigger and scope;
+- stakeholder categories invited (recognized authority, delegated representative, affected-interest party);
+- evidence received and any verification checks performed;
+- consultation timeline (opening date, submission window, closure date); and
+- how consultation outcomes affected classification, limits, hold, restriction, or escalation decisions.
+
+9B.3. Community consultation is advisory unless a lawful public authority determination is issued. AIWA must not represent advisory consultation as sovereign determination.
+
+9B.4. Where consultation does not resolve competing claims, the work remains Held or Restricted and is escalated under Section 8 to the appropriate Gambian authority pathway.
+
+---
+
 ## 10. Contributor Breach Handling
 
 ### 10.1. Definition of Breach

@@ -186,8 +186,9 @@
 
 - maintain attribution traceability to the source works used in their training or processing;
 - not produce outputs that are designed to substitute for the source works commercially;
-- not obscure the cultural origin of works incorporated into their training; and
-- comply with AIWA's anti-reconstruction standards under Section 15.
+- not obscure the cultural origin of works incorporated into their training;
+- comply with AIWA's anti-reconstruction standards under Section 15;
+- apply machine-readable and human-readable labeling for synthetic outputs where technically and legally feasible.
 
 9.2. AIWA must include AI output rules in all AI processing licensing agreements.
 
@@ -346,6 +347,22 @@
 14A.4. Where AI-assisted analysis produces a materially inaccurate, incomplete, or potentially biased result, AIWA must document the correction, override, or safeguarding step taken and must not treat the AI output as conclusive.
 
 14A.5. AIWA must be able to state, at policy and record level, whether a decision was AI-assisted or entirely human-made.
+
+## 14B. AI Incident Response and Model-Risk Controls
+
+14B.1. AIWA must maintain an AI incident response register for material events including unauthorized dataset inclusion, consent-lineage failure, restricted material leakage, model misuse, or materially deceptive synthetic output.
+
+14B.2. For each material incident, AIWA must document:
+
+- incident trigger and detection source;
+- affected works, communities, rights holders, and partners;
+- immediate containment measures;
+- legal, cultural, and contractual escalation actions taken;
+- closure decision with remediation and prevention controls.
+
+14B.3. Material incidents involving cultural sensitivity or public-authority involvement or requests must be escalated to the Governance Board and, where required, referred to applicable Gambian public authorities.
+
+14B.4. AIWA must periodically review model-risk controls covering provenance integrity, consent-lineage, output traceability, and partner compliance effectiveness.
 
 ---
 

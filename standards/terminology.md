@@ -42,14 +42,17 @@ All terms are listed in alphabetical order.
 | **Classification** | The process of assigning a work to a classification category. Classification controls treatment, monetization eligibility, AI eligibility, and revenue routing. |
 | **Classification Category** | One of the five categories defined in AIWA-DOC-01 Section 6: Class 1, Class 2, Class 3, Class 4, Class 4A. |
 | **Community Allocation** | A revenue routing requirement applied to works with communal origin. Requires a defined share of revenue to be directed to the relevant community. |
+| **Community-Linked Meaning** | A documented linkage between a work and a specific community's identifiable heritage context, based on at least one recorded evidence source (for example, contributor declaration, source documentation, recognized community notice, archival reference, or prior verified classification). |
 | **Community-Linked Work** | See Class 3. |
 | **Compilation** | A structured collection of data, facts, or materials owned only in its structure, selection, and arrangement. |
 | **Confirmational Statements** | Five declarations (Statements A through E) that every contributor must affirm at intake. Defined in AIWA-DOC-01 Section 10. |
 | **Contributor** | Any individual, group, institution, or authorized representative who submits a work to AIWA. |
 | **Controlled Ambiguity** | The formal acknowledgment that certain boundary cases between modern work and folklore are not clearly resolved by law. Controlled ambiguity results in an "Requires Cultural Review Context" mark, not a reclassification. |
 | **Copyright** | The legal right of a creator over the reproduction, distribution, and use of their original work, as defined under Gambian law. |
+| **Cultural Hold** | A temporary cultural status applied where material facts are incomplete, community standing is disputed, or cultural harm risk cannot yet be resolved. A Cultural Hold requires a defined evidence request and review window. |
 | **Cultural Influence** | The presence of cultural elements, styles, languages, or references in a work. Cultural influence is neutral and does not change the classification of a modern work. Cultural influence is not folklore. |
 | **Cultural Review** | The deeper review process applied to culturally sensitive, folklore-linked, community-linked, sacred, or restricted works. Conducted by the AIWA Cultural Review Unit. |
+| **Cultural Significance** | The level of demonstrated community importance attached to a work or expression, evidenced through documented community practice, recognized authority statements, archival history, ceremonial context, or comparable credible records. |
 | **Dataset** | A structured collection of data, facts, or records. Owned only in its structure, selection, and arrangement. |
 | **Decision Gate** | Stage 9 of the AIWA procedure. The point at which a formal decision state is assigned to a work. |
 | **Decision Officer** | The AIWA staff member responsible for issuing the formal decision at the Decision Gate. |
@@ -101,6 +104,7 @@ All terms are listed in alphabetical order.
 | **Stewardship** | AIWA's role as the designated local custodian of works in the system, responsible for classification, protection, payout, and community allocation. |
 | **Submission** | The act of placing a work into the AIWA system through an authorized intake channel. |
 | **System Processing** | The parsing, extraction, indexing, and storage of data from a submitted work, performed by AIWA at the system level in support of educational indexing and language resource development. Agreement to system processing is granted by the contributor's act of submission. |
+| **Traditional Cultural Expression (TCE) Reuse** | Reproduction, adaptation, or incorporation of an identifiable protected traditional cultural expression (TCE) into a modern work. Reuse requires documented rights and cultural clearance checks before approval for exploitation or AI use. |
 | **Work** | Any intellectual creation that is fixed, identifiable, and submitted to AIWA through an authorized intake channel. See AIWA-DOC-01 Section 2. |
 | **Work Type** | The formal categorization of a work by its nature and form. See AIWA-DOC-01 Section 3. |
 
