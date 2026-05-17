@@ -44,7 +44,7 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
             AIWA-POL-17-platform-terms-of-service.md
             AIWA-POL-18-cookie-policy.md
             AIWA-POL-19-community-guidelines.md
-            AIWA-POL-20-terms-of-sale-subscriptions.md
+            AIWA-POL-20-terms-of-sale-subscriptions-marketplace-transactions.md
             AIWA-POL-21-rewards-points-credits-policy.md
             AIWA-POL-22-ai-chat-assistant-policy.md
             AIWA-POL-23-contributor-submission-upload-agreement.md
@@ -107,7 +107,7 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
 | AIWA-POL-17 | `policies/tier2/AIWA-POL-17-platform-terms-of-service.md` | Draft |
 | AIWA-POL-18 | `policies/tier2/AIWA-POL-18-cookie-policy.md` | Draft |
 | AIWA-POL-19 | `policies/tier2/AIWA-POL-19-community-guidelines.md` | Draft |
-| AIWA-POL-20 | `policies/tier2/AIWA-POL-20-terms-of-sale-subscriptions.md` | Draft |
+| AIWA-POL-20 | `policies/tier2/AIWA-POL-20-terms-of-sale-subscriptions-marketplace-transactions.md` | Draft |
 | AIWA-POL-21 | `policies/tier2/AIWA-POL-21-rewards-points-credits-policy.md` | Draft |
 | AIWA-POL-22 | `policies/tier2/AIWA-POL-22-ai-chat-assistant-policy.md` | Draft |
 | AIWA-POL-23 | `policies/tier2/AIWA-POL-23-contributor-submission-upload-agreement.md` | Draft |
