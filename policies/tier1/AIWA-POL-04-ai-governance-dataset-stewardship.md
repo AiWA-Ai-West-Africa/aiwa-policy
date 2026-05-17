@@ -350,7 +350,7 @@
 
 ## 14B. AI Incident Response and Model-Risk Controls
 
-14B.1. AIWA must maintain an AI incident response register for material events including unauthorized dataset inclusion, consent-lineage failure, restricted-material leakage, model misuse, or materially deceptive synthetic output.
+14B.1. AIWA must maintain an AI incident response register for material events including unauthorized dataset inclusion, consent-lineage failure, restricted material leakage, model misuse, or materially deceptive synthetic output.
 
 14B.2. For each material incident, AIWA must document:
 
