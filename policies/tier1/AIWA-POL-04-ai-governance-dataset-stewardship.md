@@ -187,7 +187,7 @@
 - maintain attribution traceability to the source works used in their training or processing;
 - not produce outputs that are designed to substitute for the source works commercially;
 - not obscure the cultural origin of works incorporated into their training;
-- comply with AIWA's anti-reconstruction standards under Section 15; and
+- comply with AIWA's anti-reconstruction standards under Section 15;
 - apply machine-readable and human-readable labeling for synthetic outputs where technically and legally feasible.
 
 9.2. AIWA must include AI output rules in all AI processing licensing agreements.
