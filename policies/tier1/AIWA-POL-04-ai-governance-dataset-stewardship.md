@@ -186,7 +186,7 @@
 
 - maintain attribution traceability to the source works used in their training or processing;
 - not produce outputs that are designed to substitute for the source works commercially;
-- not obscure the cultural origin of works incorporated into their training; and
+- not obscure the cultural origin of works incorporated into their training;
 - comply with AIWA's anti-reconstruction standards under Section 15; and
 - apply machine-readable and human-readable labeling for synthetic outputs where technically and legally feasible.
 
