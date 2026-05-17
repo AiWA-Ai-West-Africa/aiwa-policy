@@ -42,7 +42,7 @@ All terms are listed in alphabetical order.
 | **Classification** | The process of assigning a work to a classification category. Classification controls treatment, monetization eligibility, AI eligibility, and revenue routing. |
 | **Classification Category** | One of the five categories defined in AIWA-DOC-01 Section 6: Class 1, Class 2, Class 3, Class 4, Class 4A. |
 | **Community Allocation** | A revenue routing requirement applied to works with communal origin. Requires a defined share of revenue to be directed to the relevant community. |
-| **Community-Linked Meaning** | A documented linkage between a work and a specific community's identifiable heritage context, based on at least one recorded evidence source (for example contributor declaration, source documentation, recognized community notice, archival reference, or prior verified classification). |
+| **Community-Linked Meaning** | A documented linkage between a work and a specific community's identifiable heritage context, based on at least one recorded evidence source (for example, contributor declaration, source documentation, recognized community notice, archival reference, or prior verified classification). |
 | **Community-Linked Work** | See Class 3. |
 | **Compilation** | A structured collection of data, facts, or materials owned only in its structure, selection, and arrangement. |
 | **Confirmational Statements** | Five declarations (Statements A through E) that every contributor must affirm at intake. Defined in AIWA-DOC-01 Section 10. |
