@@ -49,10 +49,10 @@ All terms are listed in alphabetical order.
 | **Contributor** | Any individual, group, institution, or authorized representative who submits a work to AIWA. |
 | **Controlled Ambiguity** | The formal acknowledgment that certain boundary cases between modern work and folklore are not clearly resolved by law. Controlled ambiguity results in an "Requires Cultural Review Context" mark, not a reclassification. |
 | **Copyright** | The legal right of a creator over the reproduction, distribution, and use of their original work, as defined under Gambian law. |
-| **Cultural Influence** | The presence of cultural elements, styles, languages, or references in a work. Cultural influence is neutral and does not change the classification of a modern work. Cultural influence is not folklore. |
 | **Cultural Hold** | A temporary cultural status applied where material facts are incomplete, community standing is disputed, or cultural harm risk cannot yet be resolved. A Cultural Hold requires a defined evidence request and review window. |
-| **Cultural Significance** | The level of demonstrated community importance attached to a work or expression, evidenced through documented community practice, recognized authority statements, archival history, ceremonial context, or comparable credible records. |
+| **Cultural Influence** | The presence of cultural elements, styles, languages, or references in a work. Cultural influence is neutral and does not change the classification of a modern work. Cultural influence is not folklore. |
 | **Cultural Review** | The deeper review process applied to culturally sensitive, folklore-linked, community-linked, sacred, or restricted works. Conducted by the AIWA Cultural Review Unit. |
+| **Cultural Significance** | The level of demonstrated community importance attached to a work or expression, evidenced through documented community practice, recognized authority statements, archival history, ceremonial context, or comparable credible records. |
 | **Dataset** | A structured collection of data, facts, or records. Owned only in its structure, selection, and arrangement. |
 | **Decision Gate** | Stage 9 of the AIWA procedure. The point at which a formal decision state is assigned to a work. |
 | **Decision Officer** | The AIWA staff member responsible for issuing the formal decision at the Decision Gate. |
