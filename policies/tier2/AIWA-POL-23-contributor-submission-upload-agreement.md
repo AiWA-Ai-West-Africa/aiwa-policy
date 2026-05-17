@@ -6,7 +6,7 @@
 **Tier:** 2 — Operational & Platform Policies
 **Scope:** Public-facing contributor rules governing submission authority, upload permissions, platform-use rights, cultural declarations, and contributor responsibility for uploaded materials.
 **Restrictions:** This document states public contributor obligations and does not replace more specific rights-verification, licensing, and contractual controls applied in AIWA-POL-01, AIWA-POL-04, and AIWA-POL-05.
-**Cross-Reference:** AIWA-DOC-02 (Legal Alignment), AIWA-POL-01 (Rights Administration & Licensing), AIWA-POL-04 (AI Governance & Dataset Stewardship), AIWA-POL-05 (Rights Verification & Provenance), AIWA-POL-06 (Acceptable Use), AIWA-POL-17 (Platform Terms of Service)
+**Cross-Reference:** AIWA-DOC-02 (Legal Alignment), AIWA-POL-01 (Rights Administration & Licensing), AIWA-POL-04 (AI Governance & Dataset Stewardship), AIWA-POL-05 (Rights Verification & Provenance), AIWA-POL-06 (Acceptable Use), AIWA-POL-11 (Enforcement and Appeals), AIWA-POL-17 (Platform Terms of Service)
 
 ---
 
