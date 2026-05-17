@@ -92,7 +92,7 @@
 - governing law and dispute-resolution path; and
 - compliance obligations under applicable sanctions, export control, anti-corruption, and data-protection rules.
 
-3.14. International copyright interpretation for cross-border exploitation must be aligned with applicable Berne Convention principles and relevant WIPO copyright instruments, subject always to Gambian law where Gambian law governs.
+3.14. International copyright interpretation for cross-border exploitation must align with applicable Berne Convention principles and relevant WIPO copyright instruments, subject always to Gambian law where Gambian law governs.
 
 3.15. For folklore, traditional knowledge, and community-linked cultural determinations, AIWA uses WIPO traditional knowledge and traditional cultural expression frameworks as interpretive support, without displacing Gambian public authority.
 
