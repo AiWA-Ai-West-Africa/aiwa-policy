@@ -1,4 +1,4 @@
-# Platform Terms of Service
+# Platform Terms of Service Policy
 
 **Document ID:** AIWA-POL-17
 **Version:** 0.1
