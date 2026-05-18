@@ -6,7 +6,7 @@
 **Tier:** 2 — Operational & Platform Policies
 **Scope:** Public-facing rules for respectful community participation, platform conduct, cultural respect, and safe interaction across AIWA services.
 **Restrictions:** This document states behavioural standards. Formal enforcement and appeals remain governed by AIWA-POL-11.
-**Cross-Reference:** AIWA-DOC-02 (Legal Alignment), AIWA-POL-03 (Cultural Heritage), AIWA-POL-06 (Acceptable Use), AIWA-POL-11 (Platform Enforcement), AIWA-POL-22 (AI Chat & Assistant)
+**Cross-Reference:** AIWA-DOC-02 (Legal Alignment), AIWA-POL-03 (Cultural Heritage), AIWA-POL-06 (Content Standards), AIWA-POL-11 (Platform Enforcement), AIWA-POL-22 (AI Chat & Assistant)
 
 ---
 

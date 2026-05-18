@@ -6,7 +6,7 @@
 **Tier:** 2 — Operational & Platform Policies
 **Scope:** Core public platform terms governing access to AIWA accounts, services, submissions, purchases, AI features, and enforcement.
 **Restrictions:** This document states platform-level contractual rules and does not replace detailed internal workflow in AIWA-DOC-03.
-**Cross-Reference:** AIWA-DOC-02 (Legal Alignment), AIWA-POL-06 (Acceptable Use), AIWA-POL-07 (Copyright Enforcement), AIWA-POL-09 (Data Protection & Privacy), AIWA-POL-11 (Platform Enforcement), AIWA-POL-19, AIWA-POL-20 (Terms of Sale, Subscriptions & Marketplace Transactions Policy), AIWA-POL-21 (Rewards, Points & Credits), AIWA-POL-22 (AI Chat & Assistant), AIWA-POL-23 (Contributor Submission & Upload Agreement)
+**Cross-Reference:** AIWA-DOC-02 (Legal Alignment), AIWA-POL-06 (Content Standards), AIWA-POL-07 (Copyright Enforcement), AIWA-POL-09 (Data Protection & Privacy), AIWA-POL-11 (Platform Enforcement), AIWA-POL-19, AIWA-POL-20 (Terms of Sale, Subscriptions & Marketplace Transactions Policy), AIWA-POL-21 (Rewards, Points & Credits), AIWA-POL-22 (AI Chat & Assistant), AIWA-POL-23 (Contributor Submission & Upload Agreement)
 
 ---
 

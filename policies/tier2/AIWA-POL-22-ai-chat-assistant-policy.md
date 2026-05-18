@@ -6,7 +6,7 @@
 **Tier:** 2 — Operational & Platform Policies
 **Scope:** Public and operational rules governing AI chat, assistant, recommendation, and related conversational or generative AI features offered through AIWA services.
 **Restrictions:** This document states AI interaction standards and does not replace dataset, licensing, privacy, or enforcement obligations in other AIWA policies.
-**Cross-Reference:** AIWA-DOC-02 (Legal Alignment), AIWA-POL-04 (AI Governance & Dataset Stewardship), AIWA-POL-06 (Acceptable Use), AIWA-POL-08 (Educational & Informational Content), AIWA-POL-09 (Data Protection & Privacy), AIWA-POL-11 (Platform Enforcement), AIWA-POL-19 (Community Guidelines)
+**Cross-Reference:** AIWA-DOC-02 (Legal Alignment), AIWA-POL-04 (AI Governance & Dataset Stewardship), AIWA-POL-06 (Content Standards), AIWA-POL-08 (Educational & Informational Content), AIWA-POL-09 (Data Protection & Privacy), AIWA-POL-11 (Platform Enforcement), AIWA-POL-19 (Community Guidelines)
 
 ---
 

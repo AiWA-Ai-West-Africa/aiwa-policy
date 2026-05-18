@@ -6,7 +6,7 @@
 **Tier:** 2 — Operational & Platform Policies
 **Scope:** Public-facing contributor rules governing submission authority, upload permissions, platform-use rights, cultural declarations, and contributor responsibility for uploaded materials.
 **Restrictions:** This document states public contributor obligations and does not replace more specific rights-verification, licensing, and contractual controls applied in AIWA-POL-01, AIWA-POL-04, and AIWA-POL-05.
-**Cross-Reference:** AIWA-DOC-02 (Legal Alignment), AIWA-POL-01 (Rights Administration & Licensing), AIWA-POL-04 (AI Governance & Dataset Stewardship), AIWA-POL-05 (Rights Verification & Provenance), AIWA-POL-06 (Acceptable Use), AIWA-POL-11 (Enforcement and Appeals), AIWA-POL-17 (Platform Terms of Service)
+**Cross-Reference:** AIWA-DOC-02 (Legal Alignment), AIWA-POL-01 (Rights Administration & Licensing), AIWA-POL-04 (AI Governance & Dataset Stewardship), AIWA-POL-05 (Rights Verification & Provenance), AIWA-POL-06 (Content Standards), AIWA-POL-11 (Platform Enforcement & Appeals), AIWA-POL-17 (Platform Terms of Service)
 
 ---
 
@@ -50,7 +50,7 @@
 
 4.2. The rights granted under Section 4.1 include only the operational and administrative uses required for intake, rights verification, cultural review, preservation, compliance review, and any separately authorized exploitation or AI processing.
 
-4.3. The upload itself does not grant AIWA a commercial exploitation right beyond what is expressly authorised in the applicable contributor agreement or licence instrument.
+4.3. The upload itself does not grant AIWA a commercial exploitation right beyond what is expressly authorized in the applicable contributor agreement or licence instrument.
 
 4.4. AIWA's use of SPARXSTAR as technical infrastructure does not transfer ownership of contributor content to AIWA, SPARXSTAR, or Starisian Technologies.
 
