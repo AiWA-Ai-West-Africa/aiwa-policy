@@ -41,6 +41,13 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
             AIWA-POL-09-data-protection-privacy.md
             AIWA-POL-10-compliance-international-licensing.md
             AIWA-POL-11-platform-enforcement-appeals.md
+            AIWA-POL-17-platform-terms-of-service.md
+            AIWA-POL-18-cookie-policy.md
+            AIWA-POL-19-community-guidelines.md
+            AIWA-POL-20-terms-of-sale-subscriptions-marketplace-transactions.md
+            AIWA-POL-21-rewards-points-credits-policy.md
+            AIWA-POL-22-ai-chat-assistant-policy.md
+            AIWA-POL-23-contributor-submission-upload-agreement.md
         /tier3/                  ← Specialized Policies
             AIWA-POL-12-ai-dataset-licensing.md
             AIWA-POL-13-archive-preservation.md
@@ -97,6 +104,13 @@ This repository contains the policy framework for **AI West Africa (AIWA)** — 
 | AIWA-POL-09 | `policies/tier2/AIWA-POL-09-data-protection-privacy.md` | Active |
 | AIWA-POL-10 | `policies/tier2/AIWA-POL-10-compliance-international-licensing.md` | Active |
 | AIWA-POL-11 | `policies/tier2/AIWA-POL-11-platform-enforcement-appeals.md` | Active |
+| AIWA-POL-17 | `policies/tier2/AIWA-POL-17-platform-terms-of-service.md` | Draft |
+| AIWA-POL-18 | `policies/tier2/AIWA-POL-18-cookie-policy.md` | Draft |
+| AIWA-POL-19 | `policies/tier2/AIWA-POL-19-community-guidelines.md` | Draft |
+| AIWA-POL-20 | `policies/tier2/AIWA-POL-20-terms-of-sale-subscriptions-marketplace-transactions.md` | Draft |
+| AIWA-POL-21 | `policies/tier2/AIWA-POL-21-rewards-points-credits-policy.md` | Draft |
+| AIWA-POL-22 | `policies/tier2/AIWA-POL-22-ai-chat-assistant-policy.md` | Draft |
+| AIWA-POL-23 | `policies/tier2/AIWA-POL-23-contributor-submission-upload-agreement.md` | Draft |
 
 ### Tier 3 — Specialized Policies
 
@@ -176,6 +190,27 @@ Defines sanctions compliance, AML/KYC standards, export controls, anti-corruptio
 
 #### AIWA-POL-11 — Platform Enforcement & Appeals Policy
 Defines account suspension procedures, escalation procedures, human review standards, the appeals process, appeals transparency principles, reinstatement procedures, evidence standards, and enforcement timelines.
+
+#### AIWA-POL-17 — Platform Terms of Service
+Defines the master public-facing platform agreement covering eligibility, accounts, submissions, AI features, payment-linked terms, incorporated policies, moderation, liability boundaries, and governing-law handling.
+
+#### AIWA-POL-18 — Cookie & Tracking Technologies Policy
+Defines AIWA's use of cookies and similar technologies, including categories of use, consent standards, user controls, third-party trackers, and retention limits.
+
+#### AIWA-POL-19 — Community Guidelines
+Defines public-facing behavioural rules for respectful participation, cultural respect, truthfulness, safety, anti-spam controls, AI/chat conduct, and marketplace interaction standards.
+
+#### AIWA-POL-20 — Terms of Sale, Subscriptions & Marketplace Transactions Policy
+Defines transaction rules for digital sales, subscriptions, recurring billing, refunds, chargebacks, marketplace role allocation, taxes, and compliance-linked order controls.
+
+#### AIWA-POL-21 — Rewards, Points & Credits Policy
+Defines the contractual status of internal rewards and credits, together with earning, redemption, expiry, non-transferability, anti-fraud, and programme-change rules.
+
+#### AIWA-POL-22 — AI Chat & Assistant Policy
+Defines AI interaction transparency, non-reliance rules, prompt and output handling, prohibited AI uses, human review requirements, cultural safeguards, and incident response expectations.
+
+#### AIWA-POL-23 — Contributor Submission & Upload Agreement Policy
+Defines public contributor upload rules, submission authority, operational permissions, cultural declarations, AI-permission boundaries, prohibited uploads, and contributor responsibility for rights and clearances.
 
 ### Tier 3 — Specialized Policies
 
